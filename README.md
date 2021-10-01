@@ -12,4 +12,4 @@ Soy alumno de Cuatrovientos. Del ciclo de informática, vivo en San Jorge, no te
 
 ![Imagen aleaoria](https://1.bp.blogspot.com/-79DdxzZkDog/T76QV6v5IuI/AAAAAAAAAEY/6DzpGZzsmfA/s320/homerocatolico_456_336.jpg)
 
-_Versión de desarrollo_
+_Versión de desarrollo, segunda edición_
